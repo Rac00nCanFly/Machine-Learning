@@ -90,7 +90,7 @@ Evaluation:
 - compare their performance.
 
 ## What I practised in this project
- -End-to-end ML workflow on a tabular dataset:
+ - End-to-end ML workflow on a tabular dataset:
     - loading data, cleaning, selecting features,
     - splitting into train/validation sets,
     - training and evaluating regression models.
